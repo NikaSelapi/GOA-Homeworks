@@ -46,3 +46,16 @@ print(10+10)
 print(10-10)
 print(10*10)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1>Dead By Daylight</h1>
+<img src="./GxoUQHbrinQCjkNmBqwgr7Ij.avif" width="700">
+<h2>About The Game</h2>
+<p>Dead by Daylight is an online asymmetric multiplayer survival horror video game developed and published by Canadian studio Behaviour Interactive.</p>
+<h3>What To Do As A Survivor?</h3>
+<p>Repair 5 Generators to open the exit gates and escape</p>
+<h4>What To Do As A Killer?</h4>
+<p>KILL THEM ALL. DO NOT LET THEM ESCAPE, DO EVERYTHING IT TAKES</p>
+<button>Play Now!</button>
+<button>DIE NOW!</button>
+
