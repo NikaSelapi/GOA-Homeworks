@@ -59,3 +59,65 @@ print(10*10)
 <button>Play Now!</button>
 <button>DIE NOW!</button>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#2) Komentarebis gamoyeneba aris kargi praqtika radgan mat shesadzleblobit shegidzlia adamianebs advilad auxsna kodi
+
+#3)
+Nikas_Mother = "Maya"
+Nikas_Father = "Giorgi"
+Nikas_Sister = "Ana"
+Nikas_Grandmother = "Medu"
+Nikas_Grandfather = "Ura"
+print(Nikas_Mother)
+print(Nikas_Father)
+print(Nikas_Sister)
+print(Nikas_Grandmother)
+print(Nikas_Grandfather)
+
+
+#4)
+My_Name = "Nika"
+My_Age = 13
+My_Favmov = "Scream"
+My_Friends_Name = "Alex"
+  
+print(My_Name + My_Friends_Name)
+print(My_Age)
+print(My_Favmov)
+print(My_Friends_Name)
+
+
+#5)
+City = "Tbilisi "
+Country = "Georgia"
+Location = City + Country
+print(Location)
+
+Name1 = "Dead"
+Name2 = "By"
+Name3 = "Daylight"
+Game_Name = Name1 + Name2 + Name3
+print(Game_Name)
+
+Word_One = "Hello"
+Word_Two = "World"
+Legendary_Quote = Word_One + Word_Two
+print(Legendary_Quote)
+
+word_one = "How"
+word_two = "Are"
+word_three = "You"
+HowAreYou = word_one + word_two + word_three
+print(HowAreYou)
+
+Reality_One = "I"
+Reality_Two = "AM"
+Reality_Three = "Tired"
+Reality = Reality_One + Reality_Two + Reality_Three
+print(Reality)
+
+
+#6)snake_case aris rodesac cvladi sheicavs or an met sityvas ert winadadebashi, da imisatvis rom es gaxdes shesadzlebeli sheiqmna "snake_case"
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
