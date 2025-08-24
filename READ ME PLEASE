@@ -121,3 +121,31 @@ print(Reality)
 #6)snake_case aris rodesac cvladi sheicavs or an met sityvas ert winadadebashi, da imisatvis rom es gaxdes shesadzlebeli sheiqmna "snake_case"
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##)
+
+#Input - magalitad rodesac saiti itxovs momxmareblis parols,saxels,fotos da ase shemdeg
+#Output - ki aris shedegi romelsac xedavs momxmarebeli chawerili informaciis shemdeg
+
+##)
+
+#Konkatinacia aris ori textis sheerteba
+
+##) 
+
+String = "10"
+Int = 10
+
+String_To_Int = int(String)
+
+print(String_To_Int + Int)
+print(String_To_Int - Int)
+print(String_To_Int * Int)
+print(String_To_Int / Int)
+
+##) 
+
+# Data Convertion - aris stringis intad gadaqceva
+
+
+--------------------------------------------------------------------------------------------------------
