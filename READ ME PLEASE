@@ -148,4 +148,57 @@ print(String_To_Int / Int)
 # Data Convertion - aris stringis intad gadaqceva
 
 
---------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+#1)
+
+print(100 > 50)
+print(500 > 100)
+print(1000 > 500)
+print(2000 > 1000)
+print(3000 > 2000)
+
+print(10 < 20)
+print(30 < 50)
+print(100 < 200)
+print(300 < 400)
+print(500 < 600)
+
+print(100==100)
+print(300==300)
+print(555==555)
+print(908==908)
+print(777==777)
+
+
+#2) Logical Operators - True da False, magalitad : print(100 > 50) es iqneba True radgan 100 metia vidre 50, da print(100 > 200) iqneba False radgan asi orasze meti ar aris.
+#Aseve print(300==300) iqneba True radgan orive tolia
+
+
+#3)
+
+print(100 > 50)
+print(30 < 50)
+print(100 == 100)
+
+
+#4)
+
+Points = int(input("Enter Your Score"))
+print(Points > 100)
+
+
+#5)
+
+Users_Name = input("Enter Your Name")
+My_Name = "Nika"
+print(My_Name== Users_Name)
+
+#6)
+
+Age = int(input("Enter Your Age"))
+print(Age > 17)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
