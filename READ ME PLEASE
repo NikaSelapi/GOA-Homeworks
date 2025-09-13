@@ -202,3 +202,58 @@ print(My_Name== Users_Name)
 Age = int(input("Enter Your Age"))
 print(Age > 17)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--  1) Formebi gamoiyeneba informaciis shegrovebis da gadagzavnisatvisatvis -->
+
+
+<!--  2)                                                                 -->
+
+<img src="https://gizmodo.com/app/uploads/2025/05/Jaws-Popcorn-Bucket-cropped.jpg" width="250" length="250">
+<title>Ncinema</title>
+<h1>Welcome To N Cinema!</h1>
+<p>Much Better Than Netflix, Since We Have Lots Of Stuff That Netflix Doesn't</p>
+<p>We Also Have Animes!</p>
+<a href="home.html">Home</a>
+<a href="movies.html">Movies</a>
+<a href="register.html">Register</a>
+<br>
+<img src="https://cdn2.thepopcornfactory.com/wcsstore/ThePopcornFactory/images/catalog/tpf_85257c.jpg?auto=webp" width="250" length="250">
+<h2>Grab Sum Snacks, And Enjoy</h2>
+
+
+
+
+
+<a href="home.html">Home</a>
+<a href="movies.html">Movies</a>
+<a href="register.html">Register</a>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/en/0/0f/Dexter_season_6_DVD.jpg" width="140" length="140">
+<al></al>
+<img src="https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg" width="130" length="130">
+<img src="https://m.media-amazon.com/images/I/81WzNuj6BGL._UF1000,1000_QL80_.jpg" width="135" length="135">
+<img src="https://resizing.flixster.com/einfdlOcFmucyy9Bsnn4xf51dRo=/206x305/v2/https://resizing.flixster.com/qeGRjEC1edJQu8dLViQ1BXLeZos=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjYyNzkzLndlYnA=" width="130" length="130">
+<img src="https://resizing.flixster.com/ITt1FPrFePNR6FSqZrZK7BocG2U=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjEwMTMyOTMud2VicA==" width="130" length="130">
+<img src="https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_.jpg" width="130" length="130">
+<img src="https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="130" length="130">
+<img src="https://media.themoviedb.org/t/p/w500/uCIMY95aqKEwIEwNuFq42UQkY9f.jpg" width="130" length="130">
+<img src="https://m.media-amazon.com/images/M/MV5BYmE4MmNjZjUtNTEyNy00NTZiLWE4NTktYjM2NjBhYzQ1N2IzXkEyXkFqcGc@._V1_.jpg" width="133" length="133">
+<img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11999443_b_v8_ab.jpg" width="130" length="130">
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9XaEsuK-7TYVHX0baDKYABzLCtSyzbwMxd9PPYEnMiSG9hO3XOXC_H0jJrZW5Eq7t_LTC" width="130" length="130">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_lpzcyALci5hzTRlBgpW4lIx1ion2m6yoNQ&s" width="145" length="145">
+
+
+
+
+
+<h1>There You Can Create Your Account</h1>
+<p>Create Your Username</p>
+<input type="text">
+<button>Confirm</button>
+<p>Create Your Password</p>
+<input type="password">
+<button>Confirm</button>
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
